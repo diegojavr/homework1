@@ -2,4 +2,4 @@ function myWorld(){
     return 'Hello World';
 }
 
-console.log(myWorld());
+console.log(myWorld()); 
