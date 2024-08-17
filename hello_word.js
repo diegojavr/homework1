@@ -1,5 +1,5 @@
 function myWorld(){
-    return 'Hello World';
+    return 'Hello World 🔥';
 }
 
 console.log(myWorld()); 
